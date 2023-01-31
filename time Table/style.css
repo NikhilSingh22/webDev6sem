@@ -1,0 +1,64 @@
+.first_table{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.second_table{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.tab1{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.tab2,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding:5px;
+}
+th{
+    padding: 5px;
+}
+
+.heading{
+    text-align: center;
+}
+
+span
+{
+    font-weight: bold;
+}
+
+.red{
+    font-weight: normal;
+    background-color: red;
+}
+
+.yellow{
+    font-weight: normal;
+    background-color: yellow;
+}
+
+.green{
+    font-weight: normal;
+    background-color: greenyellow;
+}
+
+.gray{
+    font-weight: normal;
+    background-color: rgb(167, 164, 164);
+}
+
+.pink{
+    font-weight: normal;
+    background-color: magenta;
+}
+
+.blue{
+    font-weight: normal;
+    background-color: rgb(97, 206, 249);
+}
